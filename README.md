@@ -1,33 +1,8 @@
-# React Query JSON Server Project
+# React + Vite
 
-This project is a simple React application that demonstrates the use of React Query for data fetching and state management, along with a JSON server for a mock backend.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Table of Contents
+Currently, two official plugins are available:
 
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Running the Application](#running-the-application)
-- [Project Structure](#project-structure)
-- [Available Scripts](#available-scripts)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Getting Started
-
-Follow these instructions to set up and run the project on your local machine.
-
-## Prerequisites
-
-Ensure you have the following installed on your machine:
-
-- Node.js (v14 or later)
-- npm (v6 or later)
-
-## Installation
-
-1. Clone the repository to your local machine:
-
-   ```sh
-   git clone https://github.com/rockyman109/react-query-json-servor-js.git
-   cd react-query-json-server
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
